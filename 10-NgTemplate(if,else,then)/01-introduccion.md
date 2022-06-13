@@ -1,0 +1,1 @@
+el Ngtemplate nos va a permitir hacer un ngif , ngelse y ng then tambien dentro de nuestra plantilla

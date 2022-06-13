@@ -1,0 +1,1 @@
+los pipes, tuberias o filtros , son pequeñas funciones que nos sirve para realizar alguna tarea en nuestra vista de angular , por ejemplo para transformar fechas, convertir algunas letras en mayusculas ... podemos tener pipes personalizadas.
